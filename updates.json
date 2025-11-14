@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "download_url": "https://syteweb.sharepoint.com/:u:/s/Syteweb/EQVaHzW_T0xNm5HoDijnNUABY_ro3jEP7PF8aho5Si39Iw?e=KVi9eb&download=1",
   "checksum": "",
-  "changelog": "- Titre de la fenetre mis a jour (Version 1.3.0)\n- Test du systeme de mise a jour automatique",
+  "changelog": "- Titre de la fenetre mis a jour (Version 1.3.0)\n- Correction du bug download_url dans auto_updater\n- Systeme de mise a jour fonctionnel",
   "mandatory": false
 }
