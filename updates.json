@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.0",
   "download_url": "https://syteweb.sharepoint.com/:u:/s/Syteweb/EbYySpP8HllOoe3MP1OKZ28BnxBkJ9hg1gR6Cw68b9fx0w?e=VD2JKu&download=1",
   "checksum": "",
-  "changelog": "- Suppression des icônes useless",
+  "changelog": "- Test du système de mise à jour automatique",
   "mandatory": false
 }
